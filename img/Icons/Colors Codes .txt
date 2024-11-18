@@ -1,0 +1,17 @@
+Fonts Name
+
+Acumin Variable Concept
+Source Code Variable
+
+
+
+Logo Colors, Button Colors, Ribon Colors
+F41919
+000063
+
+Subtitle Color 
+C7EAFB
+
+Background or side menu color
+073B63
+

@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	align-items: center;
+}
+
+
+.main{
+	
+	
+	position: absolute;
+	margin-top: 1rem;
+	margin-bottom: 10rem;
+	margin-left: 1rem;
+	margin-right: 5rem;
+		
+	
+	height: 36rem;
+	width: 55rem;
+	border: solid  thin ;
+	border-color: black;
+	
+}
+.main .logo{
+	height: 7rem;
+	width: 10rem;
+	position: relative;
+	
+	margin-top: 3rem;
+	
+	margin-left: 2rem;
+
+	float: left
+	
+}
+ .first{
+	 position: relative;
+	margin-left: 13rem;
+	float: left;
+	 margin-top: 5rem;
+	 
+}
+.left{
+	
+/*	margin-left: 25rem;*/
+	margin-right: 2rem;
+	float: right;
+	 margin-top: 2rem;
+}
+
+.main .line {
+	width: 52rem;
+	margin-left: 2rem;
+	
+}
+.main .table{
+	position: relative;
+	border: none;
+	margin-left: 2rem;
+	border-collapse: collapse;
+	margin-right: 0.9rem;
+}
+.main .table th{
+	text-align: left;
+	
+}
+.main .table .td{
+	width: 23rem;height: 2rem;border: 1px solid #ADADAD;
+  text-align: left;
+ 
+	
+}
+.main .table .tdd{
+	width: 13rem;height: 2rem;border: 1px solid #ADADAD;
+  text-align: left;
+  
+}
+.main .tab{
+	margin-top: 1rem;
+	
+	
+	margin-left: 2rem;
+	border-collapse: collapse;
+	float: left;
+	
+}
+.main .tab .t{
+	
+	width: 15rem;height: 1.5rem;border: 1px solid #ADADAD;
+  text-align: left;
+	font-size: 12px;
+	padding-left: 8px;
+ 
+	
+}
+.main .tab .tt{
+	
+	width: 9rem;height: 1.5rem;border: 1px solid #ADADAD;
+  text-align: left;
+ 
+	
+}
+.main .tabl
+{
+	margin-top: 1rem;
+	float: right;
+	
+	
+	margin-right: 0.9rem;
+	margin-left: 2rem;
+	border-collapse: collapse;
+	
+}
+.main .tabl .t{
+	
+	width: 13rem;height: 1.5rem;border: 1px solid #ADADAD;
+  text-align: left;
+	font-size: 12px;
+	padding-left: 8px;
+ 
+	
+}
+.main .tabl .tt{
+	
+	width: 9rem;height: 1.5rem;border: 1px solid #ADADAD;
+  text-align: left;
+ 
+	
+}
+.main .tablee
+{
+	
+	margin-top: 1rem;
+
+	
+	margin-left: 2rem;
+	border-collapse: collapse;
+	margin-right: 0.9rem;
+	float: left;
+	
+}
+.main .tablee .ttt{
+	
+	width: 52rem;height: 1.5rem;border: 1px solid #ADADAD;
+  text-align: left;
+ 
+	
+}
